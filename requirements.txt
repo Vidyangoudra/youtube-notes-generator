@@ -1,3 +1,5 @@
+youtube_transcript_api
 streamlit
-youtube-transcript-api
-pytube
+google-generativeai
+python-dotenv
+pathlib
